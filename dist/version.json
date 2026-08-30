@@ -1,0 +1,6 @@
+{
+  "versionCode": 57,
+  "versionName": "0.57",
+  "apk": "dist/medohkeys-v0.57.apk",
+  "notes": "A piano and guitar practice app for Android.\n\nSheet music and falling notes, a fingering worked out for scores that do not carry one, and hands that play along on the keyboard and on the guitar neck. It listens to a MIDI keyboard over USB or Bluetooth, and can send the song to a MIDI piano so the piano plays it instead of the phone.\n\nSixty-six public-domain scores are included -- Bach, Beethoven, Chopin, Mozart, Debussy, Satie, Joplin, Schubert, Liszt, Brahms and others. You can import your own MusicXML (.musicxml, .xml or .mxl) and PDF sheet music as well.\n\nThis is a test build and updates itself: check for updates under Settings."
+}
