@@ -30,8 +30,15 @@ The *compositions* are long out of copyright. The transcriptions were made by
 other people and are included on that basis; if you are the author of one and
 would rather it were not here, open an issue and it will be removed.
 
-You can import your own MusicXML (`.musicxml`, `.xml`, `.mxl`) and PDF sheet
-music. Importing standard MIDI files is not supported yet.
+You can import your own MusicXML (`.musicxml`, `.xml`, `.mxl`), MIDI (`.mid`)
+and PDF sheet music.
+
+A MIDI file records what was played, not how it was written down, so anything
+imported from one is worked out rather than read: which hand plays what comes
+from the file's tracks where it separates them and from pitch where it does
+not, sharps and flats are chosen by the key signature, and note values are
+rounded to the nearest written one. MusicXML carries all of that properly and
+is the better import where you have the choice.
 
 ## Feedback
 
