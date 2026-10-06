@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
-  "versionName": "0.58",
-  "apk": "dist/medohkeys-v0.58.apk",
-  "notes": "A piano and guitar practice app for Android.\n\nSheet music and falling notes, a fingering worked out for scores that do not carry one, and hands that play along on the keyboard and on the guitar neck. It listens to a MIDI keyboard over USB or Bluetooth, and can send the song to a MIDI piano so the piano plays it instead of the phone.\n\nNew in 0.58: MIDI files open. Import a .mid and it becomes a playable score -- hands, staves and fingering worked out from it, tempo changes and all. Which hand plays what is taken from the file's tracks where it separates them, and guessed from pitch where it does not; a MIDI file does not record it.\n\nSixty-six public-domain scores are included -- Bach, Beethoven, Chopin, Mozart, Debussy, Satie, Joplin, Schubert, Liszt, Brahms and others. You can import your own MusicXML (.musicxml, .xml or .mxl), MIDI (.mid) and PDF sheet music as well.\n\nThis is a test build and updates itself: check for updates under Settings."
+  "versionCode": 59,
+  "versionName": "0.59",
+  "apk": "dist/medohkeys-v0.59.apk",
+  "notes": "A piano and guitar practice app for Android.\n\nNew in 0.59: Learn mode. Tap the mode button until it says Learn. The piece is cut into short sections; for each one, Listen plays it, then Your turn counts you in and the music keeps moving while you play, marking each note green (in time), amber (early or late) or red (missed). With Auto on it goes round listen, play, listen, play until the section holds, then moves on. Switch off L or R to practise one hand while the app plays the other. Hold the next-section arrow to join two sections. Slower speeds also now run at the speed they say.\n\nWatch plays the piece; Wait (the old Practice) stops at each note until you play it.\n\nTo hear the app through your piano instead of the phone: Settings, Play notes through, The piano.\n\nSixty-six public-domain scores are included. You can import MusicXML (.musicxml, .xml, .mxl), MIDI (.mid) and PDF.\n\nThis is a test build and updates itself: check for updates under Settings."
 }
