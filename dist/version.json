@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "0.59",
-  "apk": "dist/medohkeys-v0.59.apk",
-  "notes": "A piano and guitar practice app for Android.\n\nNew in 0.59: Learn mode. Tap the mode button until it says Learn. The piece is cut into short sections; for each one, Listen plays it, then Your turn counts you in and the music keeps moving while you play, marking each note green (in time), amber (early or late) or red (missed). With Auto on it goes round listen, play, listen, play until the section holds, then moves on. Switch off L or R to practise one hand while the app plays the other. Hold the next-section arrow to join two sections. Slower speeds also now run at the speed they say.\n\nWatch plays the piece; Wait (the old Practice) stops at each note until you play it.\n\nTo hear the app through your piano instead of the phone: Settings, Play notes through, The piano.\n\nSixty-six public-domain scores are included. You can import MusicXML (.musicxml, .xml, .mxl), MIDI (.mid) and PDF.\n\nThis is a test build and updates itself: check for updates under Settings."
+  "versionCode": 60,
+  "versionName": "0.60",
+  "apk": "dist/medohkeys-v0.60.apk",
+  "notes": "A piano and guitar practice app for Android.\n\nNew in 0.60: Learn mode has its own speed (- and + in the Learn bar, starting at 70%). With Auto on, passing a section speeds it up 10% and you go again, until you pass at full speed; then it moves on. Size picks 1, 2, 4 or 8 bars per section. A click now plays through Learn so a turn is never silent.\n\nLearn (0.59): the piece is cut into short sections; Listen plays one, Your turn counts you in and keeps the music moving while you play, marking each note green (in time), amber (early or late) or red (missed). Switch off L or R to practise one hand while the app plays the other. Hold the next-section arrow to join two sections.\n\nTo hear the app through your piano: Settings, Play notes through, The piano.\n\nSixty-six public-domain scores included. Import MusicXML, MIDI (.mid) and PDF.\n\nThis is a test build and updates itself: check for updates under Settings."
 }
