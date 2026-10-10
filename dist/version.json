@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "0.60",
-  "apk": "dist/medohkeys-v0.60.apk",
-  "notes": "A piano and guitar practice app for Android.\n\nNew in 0.60: Learn mode has its own speed (- and + in the Learn bar, starting at 70%). With Auto on, passing a section speeds it up 10% and you go again, until you pass at full speed; then it moves on. Size picks 1, 2, 4 or 8 bars per section. A click now plays through Learn so a turn is never silent.\n\nLearn (0.59): the piece is cut into short sections; Listen plays one, Your turn counts you in and keeps the music moving while you play, marking each note green (in time), amber (early or late) or red (missed). Switch off L or R to practise one hand while the app plays the other. Hold the next-section arrow to join two sections.\n\nTo hear the app through your piano: Settings, Play notes through, The piano.\n\nSixty-six public-domain scores included. Import MusicXML, MIDI (.mid) and PDF.\n\nThis is a test build and updates itself: check for updates under Settings."
+  "versionCode": 61,
+  "versionName": "0.61",
+  "apk": "dist/medohkeys-v0.61.apk",
+  "notes": "A piano and guitar practice app for Android.\n\nNew in 0.61: syncing a large cloud library no longer fails outright when one file is slow, and shows how far it has got.\n\n0.60: Learn mode has its own speed (- and + in the Learn bar, starting at 70%). With Auto on, passing a section speeds it up 10% and you go again, until you pass at full speed; then it moves on. Size picks 1, 2, 4 or 8 bars per section. A click now plays through Learn so a turn is never silent.\n\nLearn (0.59): the piece is cut into short sections; Listen plays one, Your turn counts you in and keeps the music moving while you play, marking each note green (in time), amber (early or late) or red (missed). Switch off L or R to practise one hand while the app plays the other. Hold the next-section arrow to join two sections.\n\nTo hear the app through your piano: Settings, Play notes through, The piano.\n\nSixty-six public-domain scores included. Import MusicXML, MIDI (.mid) and PDF.\n\nThis is a test build and updates itself: check for updates under Settings."
 }
